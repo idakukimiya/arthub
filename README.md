@@ -78,4 +78,4 @@ _Loading page_
 
 [Deployed URL](https://blooming-refuge-04139.herokuapp.com/)
 
-[GitHub URL](https://github.com/DeviousDoge/arthub)
+[GitHub URL](https://github.com/idakukimiya/arthub)
