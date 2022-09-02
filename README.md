@@ -76,6 +76,6 @@ _Loading page_
 
 ## Links
 
-[Deployed URL]('')
+[Deployed URL](https://blooming-refuge-04139.herokuapp.com/)
 
 [GitHub URL](https://github.com/DeviousDoge/arthub)
